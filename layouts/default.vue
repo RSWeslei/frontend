@@ -109,8 +109,13 @@ export default {
         },
         {
           icon: 'mdi-keyboard',
-          title: 'Carcule',
-          to: '/carcule'
+          title: 'Todo',
+          to: '/todo'
+        },
+        {
+          icon: 'banana',
+          title: 'Login',
+          to: '/login'
         }
       ],
       miniVariant: false,
