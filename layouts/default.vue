@@ -113,7 +113,7 @@ export default {
           to: '/todo'
         },
         {
-          icon: 'banana',
+          icon: 'mdi-login',
           title: 'Login',
           to: '/login'
         }
